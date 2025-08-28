@@ -3,3 +3,4 @@ Content-Security-Policy: default-src 'self'; script-src 'none'; style-src 'self'
 X-Content-Type-Options: nosniff
 X-Frame-Options: DENY
 Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=86400;
